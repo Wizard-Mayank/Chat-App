@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="240" />
 </p>
 
-# 🟢 WA_Clone
+# 🟢 Chat_App
 
 > A WhatsApp-inspired web app built with **React + Vite**  
 > Familiar UI.  
@@ -13,7 +13,7 @@
 
 ## 🤔 What is this?
 
-**WA_Clone** is a minimal WhatsApp-style chat interface built to understand how modern messaging apps are structured on the frontend.
+**Chat_App** is a minimal WhatsApp-style chat interface built to understand how modern messaging apps are structured on the frontend.
 
 No ads.  
 No spam forwards.  
@@ -70,15 +70,15 @@ Simple tools. Solid choices.
 Because good apps deserve to be run, not just stared at 👇
 
 ```bash
-git clone https://github.com/Wizard-Mayank/WA-Clone.git
-cd WA-Clone
+git clone https://github.com/Wizard-Mayank/Chat-App.git
+cd Chat-App
 npm install
 npm run dev
 ```
 
 ---
 
-Open `http://localhost:5173` and enjoy pretending you built WhatsApp 😄
+Open `http://localhost:5173` and enjoy pretending you built Chat App 😄
 
 ---
 
